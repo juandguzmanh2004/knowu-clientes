@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793216332997,
+      "tag": "0000_sweet_ultimo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1793805144931,
+      "tag": "0001_ambiguous_vin_gonzales",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1793806746681,
+      "tag": "0002_jazzy_whiplash",
+      "breakpoints": true
+    }
+  ]
+}

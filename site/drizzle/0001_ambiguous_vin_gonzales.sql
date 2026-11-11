@@ -1,0 +1,1 @@
+ALTER TABLE `pilot_requests` ADD `description` text DEFAULT '' NOT NULL;
